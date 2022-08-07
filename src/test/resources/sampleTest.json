@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Steve Ngabo",
+    "dob": "08/10/1990",
+    "address": {
+      "street": "Ashmour Gardens",
+      "city": "Romford",
+      "postCode": "RM1 4RH",
+      "country" : ""
+    },
+    "ni": "S123456",
+    "salary": 7000.5
+  },
+  {
+    "name": "JP",
+    "dob": "08/10/1990",
+    "address": {
+      "street": "Ocean vilage",
+      "city": "London",
+      "postCode": "RM1 4RD",
+      "country": ""
+    },
+    "ni": "S12G456",
+    "salary": 4400.5
+  },
+  {
+    "name": "JP",
+    "dob": "08/10/1990",
+    "address": {
+      "street": "Ocean vilage",
+      "city": "London",
+      "postCode": "RM1 4RD",
+      "country": ""
+    },
+    "ni": "S12G456",
+    "salary": 4400.5
+  },
+  {
+    "name": "Harper",
+    "dob": "08/10/2017",
+    "address": {
+      "street": "Ashmour Gardens",
+      "city": "Romford",
+      "postCode": "RM1 4RH",
+      "country": ""
+    },
+    "ni": "S12HH56",
+    "salary": 700.5
+  }
+]
