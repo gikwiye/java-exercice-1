@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 import java.util.Objects;
 
-public class PersonRecord {
+public class PersonRecord extends Record{
     private String name;
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "dd/MM/yyyy")
     private Date dob;
